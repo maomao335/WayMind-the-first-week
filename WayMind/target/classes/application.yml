@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/studymate?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    username: ${DB_USERNAME:root}
+    password: ${DB_PASSWORD:123456}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+mybatis-plus:
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+qianwen:
+ api-key: sk-ws-H.RXYHEIH.oad5.MEUCIQDoY3Pw70Zw0ZglZwiIYX0PJ9PDuVyD4huJL2ZgpD5lHAIgHhJ7oUyHc-5TnzwKrX9vLaFy0LoOnpRYTczW0vht3ic

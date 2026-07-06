@@ -1,0 +1,14 @@
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\dto\ApiResponse.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\mapper\ChatHistoryMapper.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\exception\GlobalExceptionHandler.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\util\QianWenClient.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\Application.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\service\ChatService.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\controller\ChatController.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\entity\User.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\dto\ChatRequest.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\mapper\UserMapper.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\entity\ChatHistory.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\dto\ChatResponse.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\service\impl\ChatServiceImpl.java
+C:\Users\zengyawen\Desktop\WayMind\src\main\java\com\studymate\config\CorsConfig.java
